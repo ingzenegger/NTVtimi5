@@ -52,3 +52,16 @@ section {
     display: flex;
     justify-content: space-around;
 }
+td {
+    padding: 5px;
+}
+.myndir {
+    display: flex;
+    overflow: scroll;
+
+}
+.myndir img {
+    width: 100px;
+    padding: 10px;
+
+}
